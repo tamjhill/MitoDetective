@@ -39,6 +39,9 @@ MitoDetective is released under the [licence name] for academic and non-commerci
   - multiple sites with mixed LSR types
 - Filtering of NUMT-derived reads, foldback artefacts and low-quality reads
 
+Workflow:
+<img src=Mitodetective_pipeline_reduced.svg" width="500" />
+
 ## Outputs
 
 For each sample, MitoDetective produces:
@@ -49,7 +52,8 @@ For each sample, MitoDetective produces:
 - **Run and sample statistics**, including counts of each LSR type and maximum coverage, with low-level events flagged
 - **BAM files of key supporting reads** for each classification type, for inspection in a genome browser
 
-e.g. ![Example output](images/example_plot.png)
+Example plot output:
+<img src="images/output_example.jpg" width="500" />
 
 ## Requirements
 
