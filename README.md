@@ -41,7 +41,8 @@ MitoDetective is released under the [licence name] for academic and non-commerci
 
 Workflow:
 
-<img src=images/Mitodetective_pipeline_reduced.svg" width="500" />
+<img src="images/Mitodetective_pipeline_reduced.svg" width="500" />
+
 
 ## Outputs
 
@@ -56,6 +57,7 @@ For each sample, MitoDetective produces:
 Example plot output:
 
 <img src="images/output_example.jpg" width="500" />
+
 
 ## Requirements
 
