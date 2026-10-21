@@ -40,7 +40,8 @@ MitoDetective is released under the [licence name] for academic and non-commerci
 - Filtering of NUMT-derived reads, foldback artefacts and low-quality reads
 
 Workflow:
-<img src=Mitodetective_pipeline_reduced.svg" width="500" />
+
+<img src=images/Mitodetective_pipeline_reduced.svg" width="500" />
 
 ## Outputs
 
@@ -53,6 +54,7 @@ For each sample, MitoDetective produces:
 - **BAM files of key supporting reads** for each classification type, for inspection in a genome browser
 
 Example plot output:
+
 <img src="images/output_example.jpg" width="500" />
 
 ## Requirements
