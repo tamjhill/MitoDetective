@@ -15,7 +15,7 @@ MitoDetective is **free for academic and non-commercial use**.
 1. Register via UCL Business on the XIP platform: **[XIP link]**
 2. Once your registration is approved, you'll be invited to the source code repository on GitHub.
 
-Registration requires [an institutional email address / GitHub username].
+Registration requires an institutional email address.
 
 **Commercial use** requires a licence from UCL Business. Please enquire via [XIP link] or contact [UCLB contact email].
 
