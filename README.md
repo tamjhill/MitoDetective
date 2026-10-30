@@ -12,16 +12,16 @@ MitoDetective detects, classifies, visualises and quantifies large-scale rearran
 
 MitoDetective is **free for academic and non-commercial use**.
 
-1. Register via UCL Business on the XIP platform: **[XIP link]**
+1. Register via UCL Ventures on the XIP platform: **https://xip.uclventures.com/products**
 2. Once your registration is approved, you'll be invited to the source code repository on GitHub.
 
 Registration requires an institutional email address.
 
-**Commercial use** requires a licence from UCL Business. Please enquire via [XIP link] or contact [UCLB contact email].
+**Commercial use** requires a licence from UCL Ventures. Please enquire via https://xip.uclventures.com/products.
 
 ## Licence
 
-MitoDetective is released under the [licence name] for academic and non-commercial use. See [LICENSE](LICENSE) for the full terms. Commercial use is not permitted under this licence; a commercial licence is available from UCL Business.
+MitoDetective is released under the XIP Non-commercial licence for academic and non-commercial use. See [LICENSE](LICENSE) for the full terms. Commercial use is not permitted under this licence; a commercial licence is available from UCL Ventures.
 
 ## Features
 
@@ -77,4 +77,6 @@ The datasets described in the paper are archived at Zenodo: [Zenodo DOI]
 ## Contact
 
 - Questions about the access, licensing or the software: tamara.hill@ucl.ac.uk or r.kabiljo@ucl.ac.uk
+
+© Copyright, University College London 2026. All Rights Reserved.
 
