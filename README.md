@@ -72,7 +72,7 @@ Full installation and usage instructions are provided in the source repository.
 If you use MitoDetective in your research, please cite:
 [to follow]
 
-The datasets described in the paper are archived at Zenodo: [Zenodo DOI]
+The version of the software described in this manuscript is archived at Zenodo (10.5281/zenodo.23531005). The datasets supporting the conclusions of this article are available in the linked Zenodo records https://doi.org/10.5281/zenodo.23244832 and https://doi.org/10.5281/zenodo.23244889 .
 
 ## Contact
 
