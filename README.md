@@ -12,7 +12,7 @@ MitoDetective detects, classifies, visualises and quantifies large-scale rearran
 
 MitoDetective is **free for academic and non-commercial use**.
 
-1. Register via UCL Ventures on the XIP platform: **https://xip.uclventures.com/products**
+1. Register via UCL Ventures on the XIP platform: **https://xip.uclventures.com/product/mitodetective**
 2. Once your registration is approved, you'll be invited to the source code repository on GitHub.
 
 Registration requires an institutional email address.
